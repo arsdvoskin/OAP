@@ -1,0 +1,15 @@
+D:\Zmeika\zmey\zmey\bin\Debug\net6.0\zmey.exe
+D:\Zmeika\zmey\zmey\bin\Debug\net6.0\zmey.deps.json
+D:\Zmeika\zmey\zmey\bin\Debug\net6.0\zmey.runtimeconfig.json
+D:\Zmeika\zmey\zmey\bin\Debug\net6.0\zmey.dll
+D:\Zmeika\zmey\zmey\bin\Debug\net6.0\ref\zmey.dll
+D:\Zmeika\zmey\zmey\bin\Debug\net6.0\zmey.pdb
+D:\Zmeika\zmey\zmey\obj\Debug\net6.0\zmey.GeneratedMSBuildEditorConfig.editorconfig
+D:\Zmeika\zmey\zmey\obj\Debug\net6.0\zmey.AssemblyInfoInputs.cache
+D:\Zmeika\zmey\zmey\obj\Debug\net6.0\zmey.AssemblyInfo.cs
+D:\Zmeika\zmey\zmey\obj\Debug\net6.0\zmey.csproj.CoreCompileInputs.cache
+D:\Zmeika\zmey\zmey\obj\Debug\net6.0\zmey.dll
+D:\Zmeika\zmey\zmey\obj\Debug\net6.0\ref\zmey.dll
+D:\Zmeika\zmey\zmey\obj\Debug\net6.0\zmey.pdb
+D:\Zmeika\zmey\zmey\obj\Debug\net6.0\zmey.genruntimeconfig.cache
+D:\Zmeika\zmey\zmey\obj\Debug\net6.0\zmey.csproj.AssemblyReference.cache
